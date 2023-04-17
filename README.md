@@ -1,5 +1,6 @@
 # Calandar_UX_XR
- <strong>A prototype which explores the Calendar User Interaction in future Head mounted AR/MR devices</strong>
+ <strong>A prototype which explores the Calendar User Interaction in future Head mounted AR/MR devices</strong><br>
+ This prototype is a part of my Multi-Modal Interaction Design project.
  
  <h3>Problem Statement</h3>
  <p> Prolonged use of Hand Ray Interaction can cause fatigue(Gorilla Arms).</p>
